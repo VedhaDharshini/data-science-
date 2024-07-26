@@ -19,3 +19,7 @@ Conclusion
 In conclusion, this EDA process provided valuable insights into the distribution of the selected variable in the dataset. This analysis lays the foundation for further exploration and modeling tasks in the data science workflow.
 
 Thank you for reviewing my submission!
+
+TASK 2:
+PRODIGY_DS_04
+Analyze and visualize sentiment patterns in social media data to understand public opinion and attitudes towards specific topics or brands.
